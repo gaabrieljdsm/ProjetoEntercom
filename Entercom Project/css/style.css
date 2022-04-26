@@ -21,6 +21,13 @@ footer {
   color: #DCDCDC;
   text-align: center; 
 }
+.header {
+  padding: 1px;
+  text-align: center;
+  background: #191970;
+  color: white;
+  font-size: 15px;
+}
 background-img {
     background-image: url(../img/logo_entercom.png);
 }
