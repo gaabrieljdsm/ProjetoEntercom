@@ -1,0 +1,33 @@
+#Entercom-Banner {
+
+	color: green;
+	text-align: center;
+}
+
+html, body {
+    min-height:;
+}
+body {
+    padding: 0;
+    margin: 0;
+}
+        
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0px;
+  width: 100%;
+  background-color: #191970;
+  color: #DCDCDC;
+  text-align: center; 
+}
+.header {
+  padding: 1px;
+  text-align: center;
+  background: #191970;
+  color: white;
+  font-size: 15px;
+}
+background-img {
+    background-image: url(../img/logo_entercom.png);
+}
